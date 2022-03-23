@@ -1,7 +1,7 @@
 ### Hi there I'm Hale 👋
 
 
-- 🔭 I’m currently working on Embedded Software and Backend
+- 🔭 I’m currently working on Backend Development and Embedded Systems
 - 💬 Ask me about C#, Python, Sql
 - 📫 How to reach me: halenursozer@gmail.com
 - 👀 I’m interested in travelling
